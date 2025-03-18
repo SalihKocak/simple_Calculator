@@ -1,0 +1,31 @@
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Örnek Çözümleri\Hesap_Makinesi_Örneği\Hesap_Makinesi_Örneği\bin\Debug\Hesap_Makinesi_Örneği.exe.config
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Örnek Çözümleri\Hesap_Makinesi_Örneği\Hesap_Makinesi_Örneği\bin\Debug\Hesap_Makinesi_Örneği.exe
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Örnek Çözümleri\Hesap_Makinesi_Örneği\Hesap_Makinesi_Örneği\bin\Debug\Hesap_Makinesi_Örneği.pdb
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Örnek Çözümleri\Hesap_Makinesi_Örneği\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.csproj.AssemblyReference.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Örnek Çözümleri\Hesap_Makinesi_Örneği\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.csproj.SuggestedBindingRedirects.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Örnek Çözümleri\Hesap_Makinesi_Örneği\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.Form1.resources
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Örnek Çözümleri\Hesap_Makinesi_Örneği\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.Properties.Resources.resources
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Örnek Çözümleri\Hesap_Makinesi_Örneği\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.csproj.GenerateResource.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Örnek Çözümleri\Hesap_Makinesi_Örneği\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.csproj.CoreCompileInputs.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Örnek Çözümleri\Hesap_Makinesi_Örneği\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.exe
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\C# Örnek Çözümleri\Hesap_Makinesi_Örneği\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.pdb
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\bin\Debug\Hesap_Makinesi_Örneği.exe.config
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\bin\Debug\Hesap_Makinesi_Örneği.exe
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\bin\Debug\Hesap_Makinesi_Örneği.pdb
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.csproj.AssemblyReference.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.Form1.resources
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.Properties.Resources.resources
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.csproj.GenerateResource.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.csproj.CoreCompileInputs.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.exe
+C:\Users\sfkoc\OneDrive\Masaüstü\C# ve SQL Dersleri\Projeler\C# Sql Ortak Projeler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.pdb
+C:\Users\sfkoc\OneDrive\Masaüstü\Project\Bitenler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\bin\Debug\Hesap_Makinesi_Örneği.exe.config
+C:\Users\sfkoc\OneDrive\Masaüstü\Project\Bitenler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\bin\Debug\Hesap_Makinesi_Örneği.exe
+C:\Users\sfkoc\OneDrive\Masaüstü\Project\Bitenler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\bin\Debug\Hesap_Makinesi_Örneği.pdb
+C:\Users\sfkoc\OneDrive\Masaüstü\Project\Bitenler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.csproj.AssemblyReference.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\Project\Bitenler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.Form1.resources
+C:\Users\sfkoc\OneDrive\Masaüstü\Project\Bitenler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.Properties.Resources.resources
+C:\Users\sfkoc\OneDrive\Masaüstü\Project\Bitenler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.csproj.GenerateResource.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\Project\Bitenler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.csproj.CoreCompileInputs.cache
+C:\Users\sfkoc\OneDrive\Masaüstü\Project\Bitenler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.exe
+C:\Users\sfkoc\OneDrive\Masaüstü\Project\Bitenler\1_Hesap_Makinesi_Projesi\Hesap_Makinesi_Örneği\obj\Debug\Hesap_Makinesi_Örneği.pdb
